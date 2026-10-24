@@ -1,0 +1,15 @@
+# Credentials
+config.h
+
+# Arduino
+*.hex
+*.elf
+*.bin
+build/
+.pio/
+.vscode/
+*.bak
+
+# OS
+.DS_Store
+Thumbs.db
